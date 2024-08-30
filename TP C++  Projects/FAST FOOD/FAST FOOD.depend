@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1693777417 source:c:\users\tnyok\onedrive\desktop\c++ programs\fast food\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdlib>
+

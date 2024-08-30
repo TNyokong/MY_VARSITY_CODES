@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693256843 source:c:\users\tnyok\onedrive\desktop\c++ programs\food_system\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692901025 source:c:\users\tnyok\onedrive\desktop\c++ programs\atm.cpp\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693510296 source:c:\users\tnyok\onedrive\desktop\c++ programs\mamzo kota app\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

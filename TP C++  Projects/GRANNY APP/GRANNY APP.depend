@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693611438 source:c:\users\tnyok\onedrive\desktop\c++ programs\granny app\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+
